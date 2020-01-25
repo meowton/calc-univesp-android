@@ -1,0 +1,33 @@
+<resources>
+  <string name="app_name">UNIVESP - Calculadora de Médias</string>
+  <string name="univesp_logo">Univesp Logo</string>
+  <string name="atividades_feitas">Número de atividades dadas:</string>
+  <string name="atv_feita_1">1</string>
+  <string name="atv_feita_2">2</string>
+  <string name="atv_feita_3">3</string>
+  <string name="atv_feita_4">4</string>
+  <string name="atv_feita_5">5</string>
+  <string name="atv_feita_6">6</string>
+  <string name="notas_das_atividades_prova_e_exame">Notas das atividades, prova e exame:</string>
+  <string name="atv_1">Atv 1:</string>
+  <string name="atv_2">Atv 2:</string>
+  <string name="atv_3">Atv 3:</string>
+  <string name="atv_4">Atv 4:</string>
+  <string name="atv_6">Atv 6:</string>
+  <string name="atv_5">Atv 5:</string>
+  <string name="prova">Prova:</string>
+  <string name="exame">Exame:</string>
+  <string name="nota_hint">0.0</string>
+  <string name="calcular_media">Calcular Média</string>
+  <string name="limpar">Limpar</string>
+  <string name="nota_total_das_atividades">Nota total das atividades:</string>
+  <string name="nota_da_prova">Nota da prova:</string>
+  <string name="nota_do_exame">Nota do exame:</string>
+  <string name="media_das_atividades">Média das atividades:</string>
+  <string name="media_do_exame">Média do exame:</string>
+  <string name="media_da_prova">Média da prova:</string>
+  <string name="media_do_bimestre">MÉDIA DO BIMESTRE:</string>
+  <string name="aprovado_reprovado_status">STATUS</string>
+  <string name="aprovado">APROVADO!</string>
+  <string name="reprovado">REPROVADO!</string>
+</resources>
