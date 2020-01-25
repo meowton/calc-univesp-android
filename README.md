@@ -1,4 +1,4 @@
-# calc-univesp
+# Calculadora de Médias - UNIVESP
 
 Calculadora de médias da UNIVESP para Android.
 
